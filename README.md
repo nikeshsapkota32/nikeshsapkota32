@@ -1,87 +1,58 @@
-<h1 align="center">Hi 👋, I'm Nikesh Sapkota</h1>
-<h3 align="center">Senior Mainframe Engineer | COBOL • JCL • DB2 • Banking Systems</h3>
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Nikesh%20Sapkota&fontSize=70&animation=fadeIn" /> </p>
 
 <p align="center">
-  <a href="https://github.com/nikeshsapkota32">
-    <img src="https://komarev.com/ghpvc/?username=nikeshsapkota32&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=nikeshsapkota32&label=PROFILE+VIEWS&color=005C84&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/nikesh-sapkota-8405ba219/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/Mainframe-IBM%20z/OS-005C84?style=for-the-badge&logo=ibm" />
+</p>
+
+---
+
+### 🏛️ Mainframe Modernization Hub
+I am a Software Engineer specializing in the **Financial Services sector**, focusing on high-volume transaction processing and Mainframe modernization. My flagship project, **Bank360**, demonstrates modern software engineering principles applied to legacy environments.
+
+---
+
+### 📊 Ecosystem Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nikeshsapkota32&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshsapkota32&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshsapkota32&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikeshsapkota32/nikeshsapkota32/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🛠️ Core Technology Matrix
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Enterprise Core** | `COBOL` `JCL` `DB2` `CICS` `VSAM` |
+| **Modern Dev** | `Zowe CLI` `Python` `Git` `VS Code` `CI/CD` |
+| **Flagship Project** | [**Bank360**](https://github.com/nikeshsapkota32/Bank360) - A banking core transaction engine |
+
+---
+
+### 📬 Reach Out
+<p align="center">
+  <a href="mailto:nikesh.sapkota@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikesh-sapkota-8405ba219/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
-
-## 🚀 About Me 
-
-- 💼 Mainframe-focused Software Engineer
-- 🏦 Specialized in **Banking & Financial Systems**
-- 💻 5+ years experience in **COBOL / JCL / DB2**
-- 🇺🇸 Based in USA (Open to Remote & Contract Roles)
-- 🎯 Goal: High-impact enterprise modernization projects
-
----
-
-## 🏆 Featured Project
-
-### 🏦 BankPro 360 – Enterprise Core Banking Simulation
-**Full-scale Mainframe Banking System**
-
-- Multi-module COBOL architecture
-- Batch & online transaction processing
-- JCL pipelines and reporting engine
-- Fraud detection simulation
-- Enterprise logging and recovery
-
-🔗 Repo:  
-👉 https://github.com/nikeshsapkota32/Bank360
-
----
-
-## 🧠 Tech Stack
-
-### 👨‍💻 Mainframe
-![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge)
-![JCL](https://img.shields.io/badge/JCL-000000?style=for-the-badge)
-![DB2](https://img.shields.io/badge/IBM%20DB2-0033A0?style=for-the-badge)
-![CICS](https://img.shields.io/badge/CICS-FF6F00?style=for-the-badge)
-![VSAM](https://img.shields.io/badge/VSAM-6A5ACD?style=for-the-badge)
-
-### ⚙️ Tools
-![GnuCOBOL](https://img.shields.io/badge/GnuCOBOL-444444?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikeshsapkota32&show_icons=true&theme=tokyonight" />
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005C84&height=60&section=footer" /> 
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshsapkota32&theme=tokyonight" />
-</p>
-
----
-
-## 💼 What I Build
-
-✔ Enterprise COBOL systems  
-✔ Banking transaction engines  
-✔ Batch processing pipelines  
-✔ Legacy modernization projects  
-✔ High-performance backend systems  
-
----
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/nikesh-sapkota-8405ba219/
-- 📧 Email: nikeshsapkota.code@gmail.com
-- 🌎 Open to: Full-time | Contract | Remote
-
----
-
-## ⚡ Fun Fact
-
-> Mainframes still run the world — I build the software that keeps them alive 🚀
