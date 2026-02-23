@@ -29,10 +29,6 @@ I build reliable, high-performance systems for the financial core. I specialize 
 
 ### 📊 Performance Metrics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikeshsapkota32&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshsapkota32&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshsapkota32&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
