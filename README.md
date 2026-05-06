@@ -1,51 +1,68 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=005C84&height=200&section=header&text=Nikesh%20Sapkota&fontSize=70&animation=fadeIn" /> </p>
+<h1 align="center">Hi, I'm Nikesh Sapkota 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikeshsapkota32&label=PROFILE+VIEWS&color=005C84&style=for-the-badge" alt="Views" />
-  <img src="https://img.shields.io/badge/Mainframe-IBM%20z/OS-005C84?style=for-the-badge&logo=ibm" />
-  <a href="https://www.linkedin.com/in/nikesh-sapkota-8405ba219/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <b>CS Graduate  · Python Developer · Aspiring Software Engineer</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikesh-sapkota-8405ba219/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nikeshs2021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nikeshsapkota32&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-### 🏛️ Mainframe & Fintech Engineer
-I build reliable, high-performance systems for the financial core. I specialize in **COBOL modernization** and bridging the gap between legacy hardware and modern DevOps environments.
+### 🚀 About Me
 
-### 🌟 High-Impact Project: [Bank360](https://github.com/nikeshsapkota32/Bank360)
-> **Bank360** is a full-scale banking core simulation. It handles transaction processing, data integrity, and ledger management using enterprise-grade COBOL logic.
+I'm a Computer Science student actively building toward a Software Engineering career.
+I solve algorithmic problems daily, build full-stack Python projects, and am preparing
+for SWE roles at top tech companies.
+
+- 🔭 Currently building: **Job Application Tracker** (FastAPI + PostgreSQL + React)
+- 🌱 Exploring: **System Design & Distributed Systems**
+- 🎯 Goal: SWE role at a top tech company by Dec 2026
+- 💬 Ask me about: Python, REST APIs, SQL
 
 ---
 
-### 🐍 Contribution Journey
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Job Tracker](https://github.com/nikeshsapkota32/job-tracker) | Full-stack app to track job applications with analytics dashboard | FastAPI, PostgreSQL, React |
+| [AlgoTrader](https://github.com/nikeshsapkota32/AlgoTrader) | Algorithmic trading strategy backtester | Python, Pandas |
+
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikeshsapkota32/nikeshsapkota32/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikeshsapkota32/nikeshsapkota32/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nikeshsapkota32/nikeshsapkota32/output/github-snake.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikeshsapkota32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshsapkota32&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshsapkota32&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 📊 Performance Metrics
-
-
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshsapkota32&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🛠️ Tech Stack Matrix
-
-| **Field** | **Tech** |
-| :--- | :--- |
-| **Enterprise** | `COBOL` `JCL` `DB2` `CICS` `VSAM` |
-| **Modernization** | `Zowe CLI` `Python` `Git` `IBM Wazi` |
-| **Cloud/DevOps** | `Jenkins` `Docker` `Shell Scripting` |
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=005C84&height=60&section=footer" width="100%" />
+  <i>Open to SWE new grad opportunities starting Dec 2025</i>
 </p>
